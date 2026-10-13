@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use or adapt this example app, please cite it using these metadata."
+type: software
+title: "Apiary Advisor RAG agent built with Pixeltable"
+abstract: "RAG + tool-calling beekeeping advisor: custom embedding index, table-as-UDF agent pipeline, expr_udf mite math."
+authors:
+  - given-names: "Pierre"
+    family-names: "Brunelle"
+repository-code: "https://github.com/pierrebrunelle/pixeltable-apiary-advisor"
+url: "https://pierrebrunelle.github.io/awesome-pixeltable-apps/"
+license: Apache-2.0
+version: "0.1.0"
+date-released: 2026-10-13
+keywords:
+  - "pixeltable"
+  - "pixeltable-example"
+  - "python"
+  - "rag"
+  - "beekeeping"
+  - "llm"
+  - "vector-search"
+  - "ai-agents"
+  - "multimodal"
+  - "ai"

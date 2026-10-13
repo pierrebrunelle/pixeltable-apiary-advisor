@@ -1,0 +1,20 @@
+[
+  {"guide_id": "G-01", "title": "Varroa monitoring", "topic": "pests",
+   "body": "Sample about 300 bees from a brood frame for an alcohol wash or sugar roll. Divide the mite count by the number of bees and multiply by 100 to get mites per 100 bees. Below one mite per 100 bees is a low load. Around three mites per 100 bees in late summer is a common treatment threshold. Always re-sample after a treatment to confirm it worked.",
+   "source_uri": "s3://noaa-ghcn-pds/readme.txt"},
+  {"guide_id": "G-02", "title": "Swarm prevention", "topic": "colony",
+   "body": "Queen cups along the bottom of frames are normal, but charged swarm cells mean the colony is preparing to swarm. Give the queen room by adding a super before the brood nest is crowded. A split that moves the old queen to a new box usually stops swarming. Check every seven to nine days during the spring build-up.",
+   "source_uri": "https://docs.pixeltable.com/overview/pixeltable"},
+  {"guide_id": "G-03", "title": "Winter preparation", "topic": "seasonal",
+   "body": "A colony needs enough stored honey to last until spring forage returns. Heft the hive from the back to judge its weight before the first frost. Reduce the entrance to keep out mice and robbing bees. Add a moisture quilt or top insulation so condensation does not drip on the cluster.",
+   "source_uri": null},
+  {"guide_id": "G-04", "title": "Feeding syrup", "topic": "seasonal",
+   "body": "Use a one to one sugar syrup in spring to stimulate brood rearing. Switch to a two to one syrup in autumn so bees can store it quickly as winter food. Stop feeding syrup while honey supers are on the hive. Fondant or sugar bricks are safer than syrup in cold weather.",
+   "source_uri": "https://docs.pixeltable.com/howto/cookbooks/agents/pattern-table-as-udf"},
+  {"guide_id": "G-05", "title": "Queen problems", "topic": "colony",
+   "body": "No eggs and no young larvae for more than a week can mean the colony is queenless. Multiple eggs per cell or eggs on cell walls suggest laying workers. Give a queenless colony a frame of eggs from a strong hive and watch for emergency queen cells. A calm colony with a spotty brood pattern may need requeening.",
+   "source_uri": null},
+  {"guide_id": "G-06", "title": "Brood disease check", "topic": "pests",
+   "body": "Healthy capped brood is a solid pattern of light brown cappings. Sunken or perforated cappings and a ropey, foul-smelling larva are signs of American foulbrood and need an inspector. Twisted, melted-looking larvae can point to European foulbrood. Chalky white mummies at the entrance indicate chalkbrood, which often clears with better ventilation.",
+   "source_uri": "s3://noaa-ghcn-pds/ghcnd-stations.txt"}
+]

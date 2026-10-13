@@ -1,0 +1,7 @@
+[
+  {"hive_id": "H-north-1", "mites": 2, "bees_sampled": 300, "note": "calm colony, solid brood, how often should I check for swarm cells?"},
+  {"hive_id": "H-north-1", "mites": 7, "bees_sampled": 310, "note": "mite count went up after the honey flow, do I need to treat?"},
+  {"hive_id": "H-ridge-2", "mites": 12, "bees_sampled": 295, "note": "lots of mites and some sunken cappings in the brood"},
+  {"hive_id": "H-ridge-2", "mites": 0, "bees_sampled": 280, "note": "no eggs seen this week, colony is loud"},
+  {"hive_id": "H-meadow-3", "mites": 4, "bees_sampled": 300, "note": "hive feels light before frost, should I feed syrup?"}
+]
